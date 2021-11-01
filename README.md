@@ -2,7 +2,6 @@
 
 - 🔭 Trabalho com Desenvolvimeto Web
 - 🌱 Estudando JavaScript
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/yanmada">
