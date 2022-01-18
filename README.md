@@ -1,7 +1,7 @@
-## Olá, Seja Bem-Vindo
+# Seja Bem-Vindo
 
 - 🔭 Trabalho com Desenvolvimeto Web
-- 🌱 Estudando JavaScript e Python
+- 🌱 Estudando JavaScript, PHP e Python
 
 <div align="center">
   <a href="https://github.com/yanmada">
