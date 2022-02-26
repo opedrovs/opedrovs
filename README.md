@@ -1,8 +1,9 @@
-# Welcome!
-
-- 🔭 Work: Web Development
-- 🌱 Studying: JavaScript e Python
-- 📧 Contact: pedro_vsanches@zohomail.com
+<h1 align="center">Welcome!</h1>
+<ul>
+  <li>🔭 Work: Web Development</li>
+  <li>🌱 Studying: JavaScript e Python</li>
+  <li>📧 Contact: pedro_vsanches@zohomail.com</li>
+</ul>
 
 <div align="center">
   <a href="https://github.com/yanmada">
