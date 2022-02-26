@@ -1,5 +1,5 @@
 <h1 align="center">Welcome!</h1>
-<ul>
+<ul align="center">
   <li>🔭 Work: Web Development</li>
   <li>🌱 Studying: JavaScript e Python</li>
   <li>📧 Contact: pedro_vsanches@zohomail.com</li>
