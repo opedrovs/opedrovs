@@ -20,7 +20,7 @@
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div><br>
   
-<div style="margin-top: 20px" align="center">
+<divalign="center">
    <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
    ![Snake animation](https://github.com/yanmada/yanmada/blob/output/github-contribution-grid-snake.svg)  
