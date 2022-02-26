@@ -1,7 +1,8 @@
 # Seja Bem-Vindo
 
 - 🔭 Trabalho com Desenvolvimeto Web
-- 🌱 Estudando JavaScript, Python, PHP, Java e C#
+- 🌱 Estudando JavaScript, Python
+- &#x1F4E7 - pedro_vsanches@zohomail.com
 
 <div align="center">
   <a href="https://github.com/yanmada">
