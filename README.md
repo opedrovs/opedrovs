@@ -1,9 +1,9 @@
 <h1 align="center">Welcome!</h1>
-<ul>
-  <li align="center">🔭 Work: Web Development</li>
-  <li>🌱 Studying: JavaScript e Python</li>
-  <li>📧 Contact: pedro_vsanches@zohomail.com</li>
-</ul>
+<div align="center">
+  <p>🔭 Work: Web Development</p>
+  <p>🌱 Studying: JavaScript e Python</p>
+  <p>📧 Contact: pedro_vsanches@zohomail.com</p>
+</div>
 
 <div align="center">
   <a href="https://github.com/yanmada">
