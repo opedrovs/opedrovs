@@ -2,7 +2,7 @@
 
 - 🔭 Trabalho com Desenvolvimeto Web
 - 🌱 Estudando JavaScript, Python
-- &#x1F4E7 - pedro_vsanches@zohomail.com
+- 📧 - pedro_vsanches@zohomail.com
 
 <div align="center">
   <a href="https://github.com/yanmada">
