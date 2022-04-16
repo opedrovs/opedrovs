@@ -2,7 +2,7 @@
 <div align="center">
   <p>🔭 Work: Web Development</p>
   <p>🌱 Studying: JavaScript, Python, PHP, C# and Java</p>
-  <p>📧 Contact: pedro_vsanches@zohomail.com</p>
+  <p>📫 Contact: pedro_vsanches@zohomail.com</p>
 </div>
 
 <div align="center">
