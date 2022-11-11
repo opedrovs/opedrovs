@@ -1,7 +1,7 @@
 <h1 align="center">Welcome 👋!</h1>
 <div align="center">
   <p>🔭 Work: Web Development</p>
-  <p>🌱 Studying: JavaScript, NodeJS, Databases, Python</p>
+  <p>🌱 Studying: JavaScript, NodeJS, Express, Databases, Python</p>
   <p>📫 Contact: pedro_vsanches@zohomail.com</p>
 </div>
 
