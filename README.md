@@ -1,4 +1,4 @@
-<h1 align="center">Welcome #&x1F44B!</h1>
+<h1 align="center">Welcome 👋!</h1>
 <div align="center">
   <p>🔭 Work: Web Development</p>
   <p>🌱 Studying: JavaScript, NodeJS, Python</p>
