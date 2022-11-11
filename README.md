@@ -12,7 +12,7 @@
 </div>
   
 <div style="display: inline_block" align="center"><br>
-  <a href="" rel="" target=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML"></a>
+  <a href="" rel="" target=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50"></a>
   <a href="" rel="" target=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS"></a>
   <a href="" rel="" target=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"></a>
   <a href="" rel="" target=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"></a>
