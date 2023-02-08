@@ -14,6 +14,7 @@
 <div style="display: inline_block" align="center"><br>
   <a href="https://www.w3.org/html/" rel="external" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50"></a>
   <a href="https://www.w3.org/Style/CSS/" rel="external" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50"></a>
+  <a href="https://www.php.net" rel="external" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"></a> 
   <a href="https://www.python.org/" rel="external" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50"></a>
   <a href="https://www.ecma-international.org/" rel="external" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45"></a>
   <a href="https://nodejs.org/" rel="external" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="50"></a>
